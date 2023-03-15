@@ -1,5 +1,5 @@
 # My xxe payload
-Coded by: RobinTrigon | 3rr0r-404
+writed by: RobinTrigon | 3rr0r-404
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Exploiting XXE using external entities to retrieve files
 ```
